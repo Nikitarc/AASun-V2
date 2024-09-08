@@ -54,7 +54,7 @@ Les fonctionnalités, la configuration et l'utilisation du routeur sont expliqu�
 ## Les dossiers
 `Doc` contient la documentation du routeur
 
-`AASUN` est un projet utilisable avec l’environnement de développement STM32CubeIDE pour générer le code du routeur.
+`AASun-V2` est un projet utilisable avec l’environnement de développement STM32CubeIDE pour générer le code du routeur.
 
 `mfs/exec_Win32/AASun_web` contient les fichiers du serveur HTTP. Ce dossier est transformé en `AASun_web.bin` avec `mfsbuild`. `AASun_web.bin` est le système de fichier MFS à placer dans la flash externe du routeur.
 
